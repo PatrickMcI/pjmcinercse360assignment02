@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * 
  * @author Patrick McInerney
  * @studentID 1214826886
- * @repository https://github.com/PatrickMcI/cse360assignment02.git
+ * @repository https://github.com/PatrickMcI/pjmcinercse360assignment02.git
  */
 
 public class AddingMachine 
